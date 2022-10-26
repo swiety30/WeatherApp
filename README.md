@@ -9,6 +9,7 @@ https://datahub.io/core/world-cities#resource-world-cities
 
 
 ## Usage
-<img src="https://user-images.githubusercontent.com/18267785/197973903-ae19b9ef-cc4d-4053-9925-0505594bbe1d.gif" alt="Excuser showcase gif" title="Excuser showcase gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/18267785/198007286-6e808047-bb1e-4751-a0d3-bf28d97c14d6.gif" alt="Showcase gif" title="Showcase gif" width="300"/>
 
-Type desired
+Use search bar to look for city. You will see randomly created data (weather, temperature). It will refresh every 60 seconds. Also it generates image to reflect weather condition state.
+
